@@ -1,2 +1,2 @@
-# jogo-da-velha
-Jogo da velha em python
+# jokenpo
+Jogo da jokenpo desenvolvido em python
